@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-#define N 4
+#define N 8
 
 // A utility function to print solution
 void printSolution(int board[N][N]);
